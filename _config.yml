@@ -1,0 +1,14 @@
+title: 표류 마을 개발일지
+description: 물에 잠긴 세계, 뗏목 한 장에서 시작하는 픽셀 생존 마을 건설 게임 — 1인 개발 기록
+lang: ko
+theme: minima
+baseurl: "/drift-village-devlog"
+url: "https://jihoons07-ui.github.io"
+permalink: /:year/:month/:day/:title/
+author: 표류 마을 개발자
+minima:
+  date_format: "%Y-%m-%d"
+plugins:
+  - jekyll-feed
+exclude:
+  - README.md
